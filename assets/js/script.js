@@ -1,4 +1,4 @@
-let nome = window.document.getElementById('#nome')
+let nome = window.document.querySelector('#nome')
 let email = document.querySelector('#email')
 let assunto = document.querySelector('#assunto')
 let nomeOk= false
